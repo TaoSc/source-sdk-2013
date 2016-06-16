@@ -20,6 +20,11 @@ ipch
 *.vcxproj
 *.sln
 
+*.vcxproj.*
+*.sentinel
+*.pdb
+*.lib
+
 # OSX/Linux build products
 *.mak
 *.mak.vpc_crc
@@ -54,3 +59,4 @@ config.cfg
 # shader files
 *.tmp
 
+Quarter-Life/
