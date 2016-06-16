@@ -34,4 +34,4 @@ TBD
 ## References
 
 This project profits from these great others projects: 
-[Source SDK](https://github.com/TaoSc/source-sdk-2013) (proprietary).
+[Source SDK](https://github.com/ValveSoftware/source-sdk-2013) (proprietary).

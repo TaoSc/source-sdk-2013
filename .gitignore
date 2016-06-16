@@ -20,6 +20,7 @@ ipch
 *.vcxproj
 *.sln
 
+*.zip
 *.lib
 *.vcxproj.*
 *.sentinel
@@ -58,5 +59,3 @@ config.cfg
 
 # shader files
 *.tmp
-
-Quarter-Life.zip
