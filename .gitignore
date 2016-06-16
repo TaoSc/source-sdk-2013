@@ -20,10 +20,10 @@ ipch
 *.vcxproj
 *.sln
 
+*.lib
 *.vcxproj.*
 *.sentinel
 *.pdb
-*.lib
 
 # OSX/Linux build products
 *.mak
