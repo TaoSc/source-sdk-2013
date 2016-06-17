@@ -1,15 +1,15 @@
-#Half-Life 2 follow-up
+# Half-Life 2 follow-up
 
-A community driven Half-Life 2 follow-up that started as a joke on /r/HalfLife.
+A community driven Half-Life 2 follow-up that started as a joke on [/r/HalfLife](https://www.reddit.com/r/halflife).
 
 ## Installation (dev)
 
-To install the mod on a Windows system:
-
-1. Download **Source SDK Base 2013 Singleplayer**. You'll find it under the “Tools” section of Steam's “Library” tab. (see: http://imgur.com/SqzjsXz);
-2. When installed, right click on it, go to “Properties”. Then go to “BETAS” tab and select “upcoming - ” (see: http://imgur.com/gFqxr4s, http://imgur.com/tPUDhQy);
-3. Download **Quarter-Life.zip** from the Git repo. Unzip it and put the “***Quarter-Life***” folder into your “***SteamApps/sourcemods***” folder (should be somewhere like this: “***C:\Program Files (x86)\Steam\SteamApps\sourcemods\***”);
-4. Restart Steam. The mod should appear in your games list.
+1. Download **Source SDK Base 2013 Singleplayer**. You'll find it under the `Tools` section of Steam's `Library` tab. (see: [1](http://i.imgur.com/SqzjsXz.png));
+ * When installed, right click on it, go to `Properties`. Then go to `BETAS` tab and select `upcoming -` (see: [2](http://i.imgur.com/gFqxr4s.png), [3](http://i.imgur.com/tPUDhQy.png))
+3. Download the **[Quarter-Life release](https://github.com/TaoSc/source-sdk-2013/releases)** for your system and extract it into the appropriate path.
+  * Windows: `C:\Program Files (x86)\Steam\SteamApps\sourcemods\`
+  * OSX/Linux: `~/.steam/steam/steamapps/sourcemods/`
+4. Restart Steam. The mod should now appear in your games list.
 
 ## Contributing
 
