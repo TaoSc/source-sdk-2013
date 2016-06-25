@@ -10,6 +10,7 @@ A community driven Half-Life 2 follow-up that started as a joke on [/r/HalfLife]
   * Windows: `C:\Program Files (x86)\Steam\SteamApps\sourcemods\`
   * OSX/Linux: `~/.steam/steam/steamapps/sourcemods/`
 4. Restart Steam. The mod should now appear in your games list.
+5. **Optionnal**: To enable the shader editor add -shaderedit to your command line. (one way to do it: https://i.imgur.com/nTpQt36.png)
 
 ## Contributing
 
